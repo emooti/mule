@@ -1,4 +1,4 @@
-# Mule ESB Community Edition Docker image running on Alpine Linux and Oracle Java 8 (JDK).
+# Mule ESB Community Edition Docker image on Ubuntu and JDK 7
 # The base image contains glibc, which is required for the Java Service wrapper that is used by Mule ESB.
 #
 FROM emooti/tutorbase
